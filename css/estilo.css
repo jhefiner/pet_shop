@@ -1,0 +1,67 @@
+/*cabeçalho*/
+
+.imagem_lado_titulo{
+    height: 50px;
+    width: 50px;
+}
+
+.letra{
+    text-align: center;
+    color: white;
+    font-size: 26px;
+}
+
+.nav_estilo{
+    padding: 0.5cm;
+}
+
+/*rodapé*/
+
+.centralizar{
+    width:100%;
+    height:60px;
+    text-align: center;
+    color: white;
+    font-size: 16px;
+}
+
+/*texto index*/
+.texto_inicial{
+    transform: translateY(15%);
+ }
+
+.texto_inicial_2{
+    transform: translateY(35%);
+}
+ .imagem{
+    top: 45px;
+    left: 100px;
+}
+
+/*Alinhamento do form*/
+
+.alinhar{
+    transform: translateY(30%);
+    padding-right:100px;
+    padding-left:100px;
+}
+
+.transf{
+    transform: translateY(100%);
+}
+
+.transf_2{
+    transform: translateX(-20%);
+}
+
+.transf_3{
+    transform: translateX(18%);
+}
+
+/*Tabela*/
+
+.tabela{
+    height: 300px;
+    overflow: auto;
+    transform: translateY(30%);
+}
